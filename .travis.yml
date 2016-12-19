@@ -1,3 +1,8 @@
 language: node_js
 node_js:
   - "6.3.0"
+deploy:
+  app: test-ci
+  provider: heroku
+  api_key:
+    secure: 98UhopfasT5Kyyh8MfxF
