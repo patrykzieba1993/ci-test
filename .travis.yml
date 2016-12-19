@@ -5,4 +5,4 @@ deploy:
   app: test-ci
   provider: heroku
   api_key:
-    secure: 98UhopfasT5Kyyh8MfxF
+    secure: 314851bb-9306-4000-8d8d-d68fb882b060
